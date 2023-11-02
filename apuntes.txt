@@ -1,0 +1,3 @@
+Esta es una forma de escribir texto mas rapido 
+    ul>li*10>a{Hola}
+por ejemplo creas 10 items de una lista con el a href de hola
